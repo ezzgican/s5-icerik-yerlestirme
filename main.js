@@ -8,14 +8,14 @@ const logo = document.getElementById("logo-img");
 logo.src = siteContent.images["logo-img"];
 
 
-//NAV bölümü
+// NAV bölümü
 
 const navLinks = document.querySelectorAll("nav a");
 const navValues = Object.values(siteContent.nav);
 
 navLinks.forEach((link, index) => {
   link.textContent = navValues[index];
-  link.classList.add("italic"); // İpuçlarında bu sınıfın beklendiğini söylediler
+  link.classList.add("italic"); 
 });
 
 // CTA bölümü
@@ -45,7 +45,7 @@ topContentParagraphs[1].textContent = siteContent["top-content"]["right-content"
 const middleImage = document.getElementById("middle-img");
 middleImage.src = siteContent.images["accent-img"];
 
-//bottom content
+// bottom content
 
 const bottomContentHeadings = document.querySelectorAll(".bottom-content .text-content h4");
 const bottomContentParagraphs = document.querySelectorAll(".bottom-content .text-content p");

@@ -4,78 +4,78 @@
     "unexpected": 0,
     "skipped": 0,
     "flaky": 0,
-    "duration": 3264
+    "duration": 4311
   },
   "tests": [
     {
       "title": "Logo görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 614
+      "duration": 715
     },
     {
       "title": "Nav linkleri doğru text ve 'italic' class'ına sahip olmalı",
       "status": "passed",
-      "duration": 267
+      "duration": 388
     },
     {
       "title": "CTA başlığı doğru text içermeli",
       "status": "passed",
-      "duration": 243
+      "duration": 250
     },
     {
       "title": "CTA butonu doğru text içermeli",
       "status": "passed",
-      "duration": 236
+      "duration": 262
     },
     {
       "title": "CTA görseli doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 238
+      "duration": 252
     },
     {
       "title": "Middle img doğru src'ye sahip olmalı",
       "status": "passed",
-      "duration": 207
+      "duration": 263
     },
     {
       "title": "Top content başlıkları doğru olmalı",
       "status": "passed",
-      "duration": 214
+      "duration": 272
     },
     {
       "title": "Top content paragrafları doğru olmalı",
       "status": "passed",
-      "duration": 218
+      "duration": 460
     },
     {
       "title": "Bottom content başlıkları doğru olmalı",
       "status": "passed",
-      "duration": 200
+      "duration": 286
     },
     {
       "title": "Bottom content paragrafları doğru olmalı",
       "status": "passed",
-      "duration": 203
+      "duration": 266
     },
     {
       "title": "Contact başlığı doğru olmalı",
       "status": "passed",
-      "duration": 196
+      "duration": 213
     },
     {
       "title": "Contact bilgileri doğru olmalı",
       "status": "passed",
-      "duration": 211
+      "duration": 224
     },
     {
       "title": "Footer linki doğru text'e ve 'bold' class'ına sahip olmalı",
       "status": "passed",
-      "duration": 213
+      "duration": 453
     },
     {
       "title": "index.html içeriği değişmemiş olmalı",
       "status": "passed",
-      "duration": 5
+      "duration": 8
     }
   ]
 }
